@@ -1,0 +1,90 @@
+/**
+ * Float Layout Activity
+ **/
+*{
+  box-sizing: border-box;
+  background: #777;
+  font-family: Arial;
+}
+
+
+aside{
+  float: left;
+  background: #ebebeb;
+  width: 460px;
+  margin-top: 10px;
+  margin-left: 5px;
+  text-align: center;
+  height: 280px;
+  padding-top: 30px;
+  color: #777;
+  }
+header {
+  text-align: center;
+  background: #ebebeb;
+  width:960px;
+  height: 80px;
+  font-size: 18px;
+  padding: 20px;
+  color: #777;
+}
+
+#footer{
+  float: left;
+  text-align: center;
+  background: #ebebeb;
+  margin-top: 10px;
+  padding: 10px;
+  width:  960px;
+  color: #777;
+}
+#nav{
+  margin-top: 10px;
+    text-align: center;
+  background: #ebebeb;
+  width:960px;
+  height: 80px;
+  font-size: 18px;
+  padding: 20px;
+  color: #777;
+}
+
+section {
+  float:left;
+  margin-top: 10px;
+  background: #ebebeb;
+  width: 495px;
+  text-align: center;
+  height: 280px;
+  padding-top: 30px;
+  color: #777;
+}
+
+#p{
+  margin-left: 10px;
+  background: #ebebeb;
+  width: 460px;
+  padding: 10px;
+  color: #777;
+
+}
+
+#h123{
+  margin-left: 10px; 
+  background: #ebebeb;
+  width: 460px;
+  padding: 10px;
+  color: #777;
+  font-family: Arial;
+}
+
+article{
+  background: #777;
+  width: 480px;
+  margin-left: 5px;
+  margin-top: 10px;
+  height: 200px;
+  padding-top: 5px; 
+  color: initial;
+  color: white;
+}
